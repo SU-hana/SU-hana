@@ -1,7 +1,5 @@
 Hi 👋 I'm Suhana Shaju
 
-===
-
 Software Engineer
 -------------
 
