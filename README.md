@@ -20,13 +20,9 @@ Proficient Software Engineer with a strong foundation in development, programmin
 
 
 <h3 align="left">💼 Experience</h3>
-● I have been working as a Software Engineer at DEIENAMI since January 2024, bringing over <b>a year of experience</b in software development.
+● I have been working as a Software Engineer at DEIENAMI since September 2023, bringing over <b>a year of experience</b in software development.
 
 <h3 align="left">🥉 Certifications/Achievements</h3>
-
-<h4 align="left">Internship</h4>
-
-● As Python Full Stack Developer at Luminar Technolab
 
 <h4 align="left">Certification</h4>
 
