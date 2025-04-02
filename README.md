@@ -111,13 +111,6 @@ DevOps:
   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-CMS Platforms:
-
-<p>
-  <img src="https://img.shields.io/badge/-Shopify-05122A?style=for-the-badge&logo=Shopify&color=353535"/>
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
-</p>
-
 Project Management:
 
 <p>
