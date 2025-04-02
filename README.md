@@ -9,11 +9,11 @@ Proficient Software Engineer with a strong foundation in development, programmin
 
 
 
-🖥️  See my portfolio at [Rajesh-portfolio](https://react-portfolio-nu-opal.vercel.app/)
+🖥️  See my portfolio at [Suhana-portfolio](https://suhana-portfolio.vercel.app/)
 
 🧾  More about Me [Resume](https://drive.google.com/file/d/1f3k1qx1jeb2xse-yWD-G73tXRHr4f8uO/view?usp=drivesdk)
 
-📩  You can contact me at [rajesh.mbalu@gmail.com](mailto:rajesh.mbalu@gmail.com)
+📩  You can contact me at [suhanashaju06@gmail.com](mailto:suhanashaju06@gmail.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rb4807&label=Profile%20views&color=0e75b6&style=flat" alt="Rajesh" /> </p>
 
@@ -26,19 +26,11 @@ Proficient Software Engineer with a strong foundation in development, programmin
 
 <h4 align="left">Certification</h4>
 
-●	Completed Power Programmer Virtual Experience Program from Infosys.
+●	Data Base Management System Power Programmer Virtual
 
-●	Completed Data Science Tools from IBM.
+●	Python 3.4.3
 
-●	Completed Python Backend And Django Framework Course.
-
-●	Completed CSS, Bootstrap,JavaScript, Web Development Course.
-
-● Completed Web Development Online Certification Course.
-
-●	Completed React.JS: Front-end The Complete Course for Beginners.
-
-● Completed Agile Development Methodology Agile Manifesto SCRUM KANBAN from UDEMY.
+●	Introduction to Internet of Things
 
 <h3 align="left">💻 Technical Skills:</h3>
 
@@ -140,13 +132,10 @@ Operating Systems:
   
 ### 🌐 Socials
  <p>
-<a href="https://www.linkedin.com/in/rajesh-mbalu" target="blank">
+<a href="https://www.linkedin.com/in/suhana-shaju-210961270/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /> 
 <a/>
-<a href="https://instagram.com/_._r__b_._" target="blank">
+<a href="https://instagram.com/suhana_shaju" target="blank">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
  <a/>
- <a href="https://www.facebook.com/rajesh.balasubramanyam.3?mibextid=ZbWKwL" target="blank"> 
-<img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
-  <a/>
    <p/>
