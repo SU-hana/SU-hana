@@ -11,7 +11,7 @@ Proficient Software Engineer with a strong foundation in development, programmin
 
 🖥️  See my portfolio at [Suhana-portfolio](https://suhana-portfolio.vercel.app/)
 
-🧾  More about Me [Resume](https://drive.google.com/file/d/16pE-_wTogVgTmw2TLKo6J2isI0Y-3UxQ/view?usp=drivesdk)
+🧾  More about Me [Resume](https://drive.google.com/file/d/1Bnm1yera1JdvjBPWBX31mn29ZZnSpaP-/view?usp=drivesdk)
 
 📩  You can contact me at [suhanashaju06@gmail.com](mailto:suhanashaju06@gmail.com)
 
